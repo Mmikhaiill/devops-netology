@@ -53,3 +53,22 @@ Hey, Netology
 - Добавьте ещё один файл в папку /data на хостовой машине.
 - Подключитесь во второй контейнер и отобразите листинг и содержание файлов в /data контейнера.
 
+# cd data
+
+# pwd
+
+/data
+
+# ls
+
+file_from_centos.txt  file_from_host.txt
+
+# cat file_from_centos.txt
+
+centos
+
+# cat file_from_host.txt
+
+host
+
+#
